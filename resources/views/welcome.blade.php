@@ -75,7 +75,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     SELAMAT DATANG
-					<p> Di Sistem Komunikasi Antara Orangtua dan Dosen Wali</p>
+					<p> Di Sistem Komunikasi Antar Orangtua dan Dosen Wali</p>
                 </div>
 
                 <div class="flex-center position-ref full-height">
