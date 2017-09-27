@@ -19,6 +19,8 @@ Route::get('/Ppl', function () {
     return view('01');
 });
 
+Route::get('/user','UserController@viewUser');
+
 
 Auth::routes();
 
